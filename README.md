@@ -1,6 +1,6 @@
 # Weather-Forecast
 
-*/image screenshot code here/*
+<img src="WeatherApp.png">
 
 ## Description
 
